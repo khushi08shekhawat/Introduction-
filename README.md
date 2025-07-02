@@ -24,6 +24,9 @@ With hands-on experience in object detection, classification, and text-based neu
 - ✉️ **Text Classification using TensorFlow (NLP)**  
   Developed a sentiment/topic classification model using tokenized text and embedded sequences. Explored LSTM layers and achieved performance tuning with optimizer experiments and learning rate schedules.
 
+ - ❄️ **Text-to-3D Generator (Python & Trimesh)**  
+  Built a tool to convert text or shape descriptions into 3D model files using Python. Implemented 3D object generation (e.g., pyramid) from scratch and exported outputs in `.obj` format. Ideal for educational prototyping and text-to-geometry demos.
+
 ---
 
 ### 🛠️ Tools & Technologies
@@ -45,8 +48,6 @@ With hands-on experience in object detection, classification, and text-based neu
 ### 💡 About Me
 
 I enjoy working on hands-on AI projects that not only challenge my technical skills but also allow me to learn about data, patterns, and systems. I believe in clear communication, clean code, and continuous iteration.
-
-When I'm not coding, you’ll find me exploring AI courses, organizing my workflow on Notion, or curating resources on Pinterest for creative inspiration.
 
 ---
 
