@@ -28,14 +28,9 @@ With hands-on experience in object detection, classification, and text-based neu
 
 ### 🛠️ Tools & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,jupyter,github,vscode,html,css,linux,colab" />
-</p>
-
-- **Languages:** Python, HTML, CSS  
+- **Languages:** Python, C, C++, HTML, CSS  
 - **Libraries/Frameworks:** TensorFlow, Keras, NumPy, Pandas, Matplotlib, OpenCV  
 - **Tools:** Google Colab, Jupyter Notebook, Git & GitHub, VS Code  
-- **Operating Systems:** Windows, Linux (Ubuntu)
 
 ---
 
